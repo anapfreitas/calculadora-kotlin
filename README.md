@@ -29,6 +29,8 @@ O objetivo desta atividade foi aplicar os conhecimentos adquiridos na disciplina
 > ![image](https://github.com/user-attachments/assets/96a78694-d0d8-4c58-8939-22fbddd33536)
 > ![image](https://github.com/user-attachments/assets/82416ed2-6e1a-4faa-8e6a-7f0d988701dd)
 > ![image](https://github.com/user-attachments/assets/94d32954-54d0-420d-9bdd-a316cd96b2bd)
+> ![image](https://github.com/user-attachments/assets/d6fae46b-94b2-49b1-8215-003a9a9eed88)
+
 
 ## 📝 Requisitos da Atividade
 
@@ -43,7 +45,7 @@ O objetivo desta atividade foi aplicar os conhecimentos adquiridos na disciplina
 
 **Ana Paula Santos de Freitas**  
 Estudante de Análise e Desenvolvimento de Sistemas - IFTM  
-📧 anapaula@email.com 
+📧 anapssfreitas@gmail.com 
 
 ---
 
